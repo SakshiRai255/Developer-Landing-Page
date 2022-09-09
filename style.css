@@ -16,7 +16,7 @@ body {
 /*-----------Navbar------------*/
 
 #navbar {
-  width: 100vw;
+  width: 98vw;
 }
 .logo {
   margin-left: 50px;
@@ -33,7 +33,7 @@ body {
   flex-direction: row;
   position: absolute;
   top: 32px;
-  left: 58vw;
+  left: 55vw;
 }
 .list-items {
   margin: 0px 20px;
@@ -117,14 +117,13 @@ body {
 .header-heading h1 {
   color: #fff;
   font-size: 28px;
-  word-break: break-all;
+
 }
 .header-heading p {
   margin-top: 20px;
   font-size: 13px;
   color: #fff;
   font-family: "Cabin", sans-serif;
-  word-break: break-all;
 }
 
 /*----------Company-Count-Section----------*/
@@ -268,7 +267,6 @@ body {
 .question p {
   font-size: 15px;
   padding: 10px 5px;
-  word-break: break-all;
 }
 .question .btn2nd {
   color: #fff;
