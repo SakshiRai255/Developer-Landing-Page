@@ -117,7 +117,6 @@ body {
 .header-heading h1 {
   color: #fff;
   font-size: 28px;
-
 }
 .header-heading p {
   margin-top: 20px;
@@ -166,7 +165,6 @@ body {
   margin: 8px 8px;
 }
 .api-card.active {
-  /* transform: scale(1.05); */
   box-shadow: 0 8px 50px rgba(0, 0, 0, 0.4);
   z-index: 2;
   color: #0633fc;
@@ -197,10 +195,10 @@ body {
   margin-bottom: 35px;
   font-family: "Fjalla One", sans-serif;
 }
-#blog-section{
+#blog-section {
   display: flex;
   flex-wrap: wrap;
-  justify-content:space-between;
+  justify-content: space-between;
   flex-direction: row;
 }
 .blog-card {
@@ -255,7 +253,7 @@ body {
 .question {
   position: relative;
   left: 1vw;
-  top: 0;
+  top: 20px;
   width: 35vw;
   margin-left: 30px;
 }
