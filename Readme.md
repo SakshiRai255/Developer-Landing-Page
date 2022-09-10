@@ -13,7 +13,7 @@
 
 [Deployed-link](https://my-developer-landing-page.netlify.app/)
 
-### These images are related to landing page
+### These images are related to landing page.
 
 ---
 
