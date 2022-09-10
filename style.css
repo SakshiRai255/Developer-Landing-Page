@@ -236,6 +236,7 @@ body {
 .blog-heading p {
   font-size: 12px;
   padding: 10px 10px;
+  text-align: justify;
 }
 .blog-heading h2 {
   font-size: 20px;
@@ -265,6 +266,7 @@ body {
 .question p {
   font-size: 15px;
   padding: 10px 5px;
+  text-align: justify;
 }
 .question .btn2nd {
   color: #fff;
